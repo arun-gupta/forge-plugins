@@ -1,0 +1,11 @@
+Minecraft Forge Plugins
+=======================
+
+Build your own modkit
+~~~~~~~~~~~~~~~~~~~~~
+
+. On http://files.minecraftforge.net/, download the link with ``Src'' (remember to remove adfly from the link)
+. Unzip the file
+. Run Unzip the file
+. Run `./gradlew` in the expanded directory
+. Run `./gradlew setuDevWorkspace eclipse setupDecomWorkspace` to setup workspace
