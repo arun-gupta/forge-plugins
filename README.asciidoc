@@ -7,5 +7,4 @@ Build your own modkit
 . On http://files.minecraftforge.net/, download the link with ``Src'' (remember to remove adfly from the link)
 . Unzip the file
 . Run Unzip the file
-. Run `./gradlew` in the expanded directory
 . Run `./gradlew setupDevWorkspace setupDecompWorkspace eclipse` to create an unzipped modkit
