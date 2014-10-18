@@ -8,4 +8,4 @@ Build your own modkit
 . Unzip the file
 . Run Unzip the file
 . Run `./gradlew` in the expanded directory
-. Run `./gradlew setupDevWorkspace eclipse setupDecompWorkspace` to setup workspace
+. Run `./gradlew setupDevWorkspace setupDecompWorkspace eclipse` to create an unzipped modkit
